@@ -1,0 +1,41 @@
+markdown
+
+Copy code
+
+`# BootcampTest24’s Portfolio
+
+**Aspiring Software Engineer | Frontend | Python | JavaScript**
+
+Welcome to my portfolio! I’m a passionate bootcamp graduate eager to build real-world solutions using code. I’m transitioning into tech from a background in marketing and have hands-on experience with frontend development, Python programming, and JavaScript.
+
+### Contact
+- **Email:** bootcamptest24@email.com
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/fakeprofile)
+- **GitHub:** [GitHub Profile](https://github.com/BootcampTest24)
+
+---
+
+## Skills
+- **Languages:** JavaScript, Python, HTML, CSS
+- **Frameworks/Libraries:** React (beginner), Bootstrap
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## Projects
+Explore some of my bootcamp projects below:
+
+### 1. [Frontend Project - Responsive Website](https://github.com/BootcampTest24/frontend-project)
+*Created a responsive website for a fictional cafe using HTML, CSS, and Bootstrap. Focused on creating an accessible, user-friendly layout.*
+  - **Tech:** HTML, CSS, Bootstrap
+  - **Highlights:** Mobile-first design, Accessibility features
+
+### 2. [Python Project - Data Analysis](https://github.com/BootcampTest24/python-project)
+*Developed a Python script to analyze a dataset and generate visual reports.*
+  - **Tech:** Python, Pandas, Matplotlib
+  - **Highlights:** Data cleaning, Visualization, Insights
+
+### 3. [JavaScript Project - Interactive Quiz](https://github.com/BootcampTest24/js-quiz)
+*Built a simple quiz game using JavaScript that allows users to test their knowledge on various topics.*
+  - **Tech:** JavaScript, HTML, CSS
+  - **Highlights:** User interactions, Score tracking`
